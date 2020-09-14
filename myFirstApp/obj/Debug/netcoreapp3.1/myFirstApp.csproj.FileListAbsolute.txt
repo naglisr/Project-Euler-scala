@@ -1,0 +1,13 @@
+/home/naglis/Workspace/myFirstApp/bin/Debug/netcoreapp3.1/myFirstApp
+/home/naglis/Workspace/myFirstApp/bin/Debug/netcoreapp3.1/myFirstApp.deps.json
+/home/naglis/Workspace/myFirstApp/bin/Debug/netcoreapp3.1/myFirstApp.runtimeconfig.json
+/home/naglis/Workspace/myFirstApp/bin/Debug/netcoreapp3.1/myFirstApp.runtimeconfig.dev.json
+/home/naglis/Workspace/myFirstApp/bin/Debug/netcoreapp3.1/myFirstApp.dll
+/home/naglis/Workspace/myFirstApp/bin/Debug/netcoreapp3.1/myFirstApp.pdb
+/home/naglis/Workspace/myFirstApp/obj/Debug/netcoreapp3.1/myFirstApp.csprojAssemblyReference.cache
+/home/naglis/Workspace/myFirstApp/obj/Debug/netcoreapp3.1/myFirstApp.AssemblyInfoInputs.cache
+/home/naglis/Workspace/myFirstApp/obj/Debug/netcoreapp3.1/myFirstApp.AssemblyInfo.cs
+/home/naglis/Workspace/myFirstApp/obj/Debug/netcoreapp3.1/myFirstApp.csproj.CoreCompileInputs.cache
+/home/naglis/Workspace/myFirstApp/obj/Debug/netcoreapp3.1/myFirstApp.dll
+/home/naglis/Workspace/myFirstApp/obj/Debug/netcoreapp3.1/myFirstApp.pdb
+/home/naglis/Workspace/myFirstApp/obj/Debug/netcoreapp3.1/myFirstApp.genruntimeconfig.cache

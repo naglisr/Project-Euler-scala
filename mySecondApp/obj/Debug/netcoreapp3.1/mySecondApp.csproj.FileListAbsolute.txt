@@ -1,0 +1,13 @@
+/home/naglis/Workspace/mySecondApp/bin/Debug/netcoreapp3.1/mySecondApp
+/home/naglis/Workspace/mySecondApp/bin/Debug/netcoreapp3.1/mySecondApp.deps.json
+/home/naglis/Workspace/mySecondApp/bin/Debug/netcoreapp3.1/mySecondApp.runtimeconfig.json
+/home/naglis/Workspace/mySecondApp/bin/Debug/netcoreapp3.1/mySecondApp.runtimeconfig.dev.json
+/home/naglis/Workspace/mySecondApp/bin/Debug/netcoreapp3.1/mySecondApp.dll
+/home/naglis/Workspace/mySecondApp/bin/Debug/netcoreapp3.1/mySecondApp.pdb
+/home/naglis/Workspace/mySecondApp/obj/Debug/netcoreapp3.1/mySecondApp.csprojAssemblyReference.cache
+/home/naglis/Workspace/mySecondApp/obj/Debug/netcoreapp3.1/mySecondApp.AssemblyInfoInputs.cache
+/home/naglis/Workspace/mySecondApp/obj/Debug/netcoreapp3.1/mySecondApp.AssemblyInfo.cs
+/home/naglis/Workspace/mySecondApp/obj/Debug/netcoreapp3.1/mySecondApp.csproj.CoreCompileInputs.cache
+/home/naglis/Workspace/mySecondApp/obj/Debug/netcoreapp3.1/mySecondApp.dll
+/home/naglis/Workspace/mySecondApp/obj/Debug/netcoreapp3.1/mySecondApp.pdb
+/home/naglis/Workspace/mySecondApp/obj/Debug/netcoreapp3.1/mySecondApp.genruntimeconfig.cache
