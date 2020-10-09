@@ -6,10 +6,11 @@ namespace mySecondApp
     {
         static void Main(string[] args)
         {
-            var name = "";
-            Console.WriteLine("Enter your name:");
-            name = Console.ReadLine();
-            Console.WriteLine("Hello "+ name);
+            var names = new List<string> { "<name>", "Ana", "Felipe" };
+            //var names = new List<string> {"<name>", "ana", "bob"};
+            foreach(var name in names){
+                Console.WriteLine($"Hello {name.toUpper()}");
+            }
         }
     }
 }
